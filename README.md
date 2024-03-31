@@ -8,6 +8,7 @@ Welcome to the **GitHub Account Finder** project! This personal front-end applic
 - **Tech Stack**:
     - **HTML**: For structuring the web pages.
     - **CSS**: For styling the user interface.
+    - **Javascript**: For adding functionality to the user interface.
     - **GitHub API**: Integrated to fetch user data.
 - **Features**:
     - Search functionality to find GitHub users.
